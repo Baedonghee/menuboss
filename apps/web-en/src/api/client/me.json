@@ -1,0 +1,10 @@
+{
+  "join": "/api/me/join",
+  "me": "/api/me",
+  "socialJoin": "/api/me/social/join",
+  "updatePassword": "/api/me/password",
+  "updateName": "/api/me/name",
+  "updatePhone": "/api/me/phone",
+  "updateProfileImage": "/api/me/profile/image",
+  "deleteMember": "/api/me/leave"
+}

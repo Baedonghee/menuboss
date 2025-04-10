@@ -1,0 +1,8 @@
+{
+  "list": "/v1/canvases",
+  "detail": "/v1/canvases/:id",
+  "create": "/v1/canvases",
+  "update": "/v1/canvases/:id",
+  "updateName": "/v1/canvases/:id/name",
+  "delete": "/v1/canvases/:id"
+}

@@ -1,0 +1,10 @@
+{
+  "join": "/v1/me/join",
+  "me": "/v1/me",
+  "socialJoin": "/v1/me/social/join",
+  "updatePassword": "/v1/me/password",
+  "updateName": "/v1/me/name",
+  "updatePhone": "/v1/me/phone",
+  "updateProfileImage": "/v1/me/profile/image",
+  "deleteMember": "/v1/me/leave"
+}

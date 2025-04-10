@@ -1,0 +1,8 @@
+{
+  "screens": "/v1/screens",
+  "screensApply": "/v1/screens/contents",
+  "deleteScreen": "/v1/screens/:id",
+  "updateScreenName": "/v1/screens/:id/name",
+  "createScreen": "/v1/screens/connect/:id",
+  "showScreen": "/v1/screens/:id/show"
+}

@@ -1,0 +1,12 @@
+{
+  "createPayment": "/v1/payments/sessions",
+  "updatePayment": "/v1/payments/subscriptions",
+  "getSubscriptions": "/v1/payments/subscriptions",
+  "getProducts": "/v1/payments/products",
+  "getInvoices": "/v1/payments/invoices",
+  "getPaymentMethods": "/v1/payments/methods",
+  "deleteSubscriptions": "/v1/payments/subscriptions/:id",
+  "createPaymentMethod": "/v1/payments/methods/:id",
+  "updatePaymentMethodChange": "/v1/payments/methods/:id/default",
+  "deletePaymentMethod": "/v1/payments/methods/:id"
+}

@@ -1,0 +1,6 @@
+{
+  "image": "/v1/files/upload/media/images",
+  "video": "/v1/files/upload/media/videos",
+  "profileImage": "/v1/files/upload/profile/images",
+  "canvasImage": "/v1/files/upload/canvas/images"
+}

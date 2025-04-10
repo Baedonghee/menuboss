@@ -1,0 +1,15 @@
+{
+  "createPayment": "/v1/kr/payments/sessions",
+  "updatePayment": "/v1/kr/payments/subscriptions",
+  "getSubscriptions": "/v1/kr/payments/subscriptions",
+  "getProducts": "/v1/kr/payments/products",
+  "getInvoices": "/v1/kr/payments/invoices",
+  "getPaymentMethods": "/v1/kr/payments/methods",
+  "deleteSubscriptions": "/v1/kr/payments/subscriptions/:id/cancel",
+  "createPaymentMethod": "/v1/kr/payments/methods/:id",
+  "updatePaymentMethodChange": "/v1/kr/payments/methods/:id/default",
+  "deletePaymentMethod": "/v1/kr/payments/methods/:id",
+  "postPaymentCards": "/v1/kr/payments/cards",
+  "updatePaymentCards": "/v1/kr/payments/cards",
+  "getInvoicesDownload": "/v1/kr/payments/invoices/:id/receipt"
+}

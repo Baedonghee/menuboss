@@ -1,0 +1,12 @@
+{
+  "createPayment": "/api/payments/sessions",
+  "updatePayment": "/api/payments/subscriptions",
+  "getSubscriptions": "/api/payments/subscriptions",
+  "getProducts": "/api/payments/products",
+  "getInvoices": "/api/payments/invoices",
+  "getPaymentMethods": "/api/payments/methods",
+  "deleteSubscriptions": "/api/payments/subscriptions/:id",
+  "createPaymentMethod": "/api/payments/methods/:id",
+  "updatePaymentMethodChange": "/api/payments/methods/:id/default",
+  "deletePaymentMethod": "/api/payments/methods/:id"
+}

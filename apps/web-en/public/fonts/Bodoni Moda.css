@@ -1,0 +1,14 @@
+/* bodoni-moda-regular - latin */
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/font/bodoni-moda-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* bodoni-moda-700 - latin */
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/font/bodoni-moda-v23-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}

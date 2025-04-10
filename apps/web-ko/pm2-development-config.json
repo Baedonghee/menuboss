@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "menuboss-ko",
+      "script": "../../node_modules/next/dist/bin/next",
+      "args": "start",
+      "env": {
+        "BUILD_ENV": "development",
+        "PORT": 9092
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "getMembers": "/api/business/members",
+  "createMembers": "/api/business/members",
+  "updateMember": "/api/business/members/:id",
+  "updateTitle": "/api/business/title",
+  "updateAddress": "/api/business/address",
+  "deleteMember": "/api/business/members/:id",
+  "getRoles": "/api/business/roles",
+  "createRoles": "/api/business/roles",
+  "updateRoles": "/api/business/roles/:id",
+  "deleteRole": "/api/business/roles/:id"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "menuboss",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "dependencies": {
+    "turbo": "1.11.2"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "prettier": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "yarn@1.22.21",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

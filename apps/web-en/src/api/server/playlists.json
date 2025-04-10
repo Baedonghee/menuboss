@@ -1,0 +1,8 @@
+{
+  "playlists": "/v1/playlists",
+  "addPlaylist": "/v1/playlists",
+  "deletePlaylist": "/v1/playlists/:id",
+  "getPlaylist": "/v1/playlists/:id",
+  "updatePlaylist": "/v1/playlists/:id",
+  "updatePlaylistName": "/v1/playlists/:id/name"
+}

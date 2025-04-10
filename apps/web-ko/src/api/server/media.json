@@ -1,0 +1,8 @@
+{
+  "media": "/v1/media",
+  "createNewFolder": "/v1/media/folder",
+  "deleteFile": "/v1/media/delete",
+  "getMediaFile": "/v1/media/:id",
+  "updateMediaFolderMover": "/v1/media/move",
+  "updateMediaFolderName": "/v1/media/:id/name"
+}

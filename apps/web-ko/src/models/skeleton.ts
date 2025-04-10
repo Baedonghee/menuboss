@@ -1,0 +1,1 @@
+export const skeletonList = Array.from({ length: 3 });

@@ -1,0 +1,5 @@
+{
+  "getSubscriptionProducts": "/api/subscriptions/products",
+  "postSubscriptionPayments": "/api/subscriptions/payments",
+  "updateSubscriptionPayments": "/api/subscriptions/:id/payments/options"
+}

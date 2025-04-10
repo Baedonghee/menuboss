@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "menuboss-ko",
+      "script": "server.js",
+      "env": {
+        "BUILD_ENV": "development"
+      },
+      "env_production": {
+        "BUILD_ENV": "production"
+      }
+    }
+  ]
+}

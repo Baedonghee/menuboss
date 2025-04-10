@@ -1,0 +1,15 @@
+{
+  "createPayment": "/api/payments/sessions",
+  "updatePayment": "/api/payments/subscriptions",
+  "getSubscriptions": "/api/payments/subscriptions",
+  "getProducts": "/api/payments/products",
+  "getInvoices": "/api/payments/invoices",
+  "getPaymentMethods": "/api/payments/methods",
+  "deleteSubscriptions": "/api/payments/subscriptions/:id/cancel",
+  "createPaymentMethod": "/api/payments/methods/:id",
+  "updatePaymentMethodChange": "/api/payments/methods/:id/default",
+  "deletePaymentMethod": "/api/payments/methods/:id",
+  "postPaymentCards": "/api/payments/cards",
+  "updatePaymentCards": "/api/payments/cards",
+  "getInvoicesDownload": "/api/payments/invoices/:id/receipt"
+}

@@ -1,0 +1,14 @@
+/* latin */
+@font-face {
+  font-family: 'Century Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/font/century-gothic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* latin */
+@font-face {
+  font-family: 'Century Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/font/century-gothic-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}

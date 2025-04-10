@@ -1,0 +1,12 @@
+{
+  "getMembers": "/v1/business/members",
+  "createMembers": "/v1/business/members",
+  "updateMember": "/v1/business/members/:id",
+  "updateTitle": "/v1/business/title",
+  "updateAddress": "/v1/business/address",
+  "deleteMember": "/v1/business/members/:id",
+  "getRoles": "/v1/business/roles",
+  "createRoles": "/v1/business/roles",
+  "updateRoles": "/v1/business/roles/:id",
+  "deleteRole": "/v1/business/roles/:id"
+}

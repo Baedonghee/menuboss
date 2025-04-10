@@ -1,0 +1,8 @@
+{
+  "media": "/api/media",
+  "createNewFolder": "/api/media/folder",
+  "deleteFile": "/api/media/delete",
+  "getMediaFile": "/api/media/:id",
+  "updateMediaFolderMover": "/api/media/move",
+  "updateMediaFolderName": "/api/media/:id/name"
+}

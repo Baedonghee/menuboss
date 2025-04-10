@@ -1,0 +1,8 @@
+{
+  "schedules": "/api/schedules",
+  "addSchedule": "/api/schedules",
+  "getSchedule": "/api/schedules/:id",
+  "updateSchedule": "/api/schedules/:id",
+  "deleteSchedule": "/api/schedules/:id",
+  "updateScheduleName": "/api/schedules/:id/name"
+}

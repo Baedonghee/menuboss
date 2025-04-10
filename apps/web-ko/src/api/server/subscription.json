@@ -1,0 +1,5 @@
+{
+  "getSubscriptionProducts": "/v1/kr/subscriptions/products",
+  "postSubscriptionPayments": "/v1/kr/subscriptions/payments",
+  "updateSubscriptionPayments": "/v1/kr/subscriptions/:id/payments/options"
+}

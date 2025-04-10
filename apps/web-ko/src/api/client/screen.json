@@ -1,0 +1,8 @@
+{
+  "screens": "/api/screens",
+  "screensApply": "/api/screens/contents",
+  "deleteScreen": "/api/screens/:id",
+  "updateScreenName": "/api/screens/:id/name",
+  "createScreen": "/api/screens/connect/:id",
+  "showScreen": "/api/screens/:id/show"
+}
